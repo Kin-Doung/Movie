@@ -117,6 +117,7 @@ span{
     padding: 15px;  
 }
 .fa-play{
+
     font-size: 25px;
     margin-right: 10px;
     color: rgb(216, 42, 19);
@@ -134,6 +135,7 @@ span{
     transition: 0.01;
 
 }
+
 @media(max-width: 600px){
     .linkser{
         display: none;
@@ -174,6 +176,9 @@ span{
         font-size: 10px;
         padding: 0;
         
+    }
+    .box1 img{
+        object-fit: cover;
     }
 
 }
