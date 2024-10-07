@@ -135,6 +135,11 @@ span{
     transition: 0.01;
 
 }
+.linkser:hover{
+    text-decoration: underline;
+    color: goldenrod;
+    transition: 0.2s;
+}
 
 @media(max-width: 600px){
     .linkser{
